@@ -1,4 +1,9 @@
-## Olá, eu sou o Matheus Gomes! Formado em Análise e Desenvolvimento de Sistemas e estudando para ser programador Front-End!
+## Olá, eu sou o Matheus Gomes! 
+<p>🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+📖 Estudando para ser um desenvolvedor Web Front-End!<br>
+🧑‍💻 Tenho alguns projetos no meu GitHub, dê uma olhada 🙂!
+
+</p>
 <div align="center">
   <a href="https://github.com/matheeusgomes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheeusgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
