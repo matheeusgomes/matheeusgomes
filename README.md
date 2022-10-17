@@ -1,4 +1,4 @@
-## Olá, eu sou o Matheus Gomes! 
+## Olá, eu sou Matheus Gomes! 
 <p>🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
 📖 Estudando para ser um desenvolvedor Web Front-End!<br>
 🧑‍💻 Tenho alguns projetos no meu GitHub, dê uma olhada 🙂!
