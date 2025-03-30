@@ -1,6 +1,6 @@
 <h2>Olá, eu sou Matheus Gomes! </h2>
 <p>🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
-📖 Trabalho como desenvolvedor web PHP utilizando o framework CodeIgniter e Laravel!<br>
+📖 Trabalho como desenvolvedor web PHP utilizando os frameworks CodeIgniter e Laravel!<br>
 🧑‍💻 Tenho alguns projetos no meu GitHub, dê uma olhada 🙂!
 
 </p>
