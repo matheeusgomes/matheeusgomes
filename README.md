@@ -1,15 +1,19 @@
 <h2>Olá, eu sou Matheus Gomes! </h2>
-<p>🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
-📖 Trabalho à 4 anos como desenvolvedor backend PHP utilizando os frameworks CodeIgniter e Laravel!<br>
-🧑‍💻 Tenho alguns projetos no meu GitHub, dê uma olhada 🙂!
+<p> 🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
+  🧑‍💻 Atuo há 4 anos como desenvolvedor, com foco em aplicações back-end utilizando 
+  <strong>PHP, Laravel e CodeIgniter</strong>.<br>
+  🚀 Tenho experiência no desenvolvimento de sistemas web, APIs REST, Webservice, integrações, 
+  automação de processos e bancos de dados relacionais.<br>
+  📂 Aqui no meu GitHub você encontrará alguns dos meus projetos, estudos e soluções desenvolvidas ao longo da minha trajetória profissional.<br>
 
+  🔎 Fique à vontade para explorar meus repositórios!
 </p>
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/matheeusgomes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheeusgomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeusgomes&layout=compact&langs_count=7&theme=radical"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=matheeusgomes&theme=radical&locale=pt-br"/></a>
-</div>
+</div>-->
 <div style="display: inline_block"><br>  
   <h2>Linguagens utilizadas</h2>
 <img align="center" alt="HTML" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
